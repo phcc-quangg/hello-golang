@@ -2,4 +2,4 @@
 
 Companion repo to a course on Udemy.com
 
-- test edit readme
+- update random shit :v
